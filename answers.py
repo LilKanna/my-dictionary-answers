@@ -18,5 +18,4 @@ mydict = { 'Name': 'Alon', 'Age': '19', 'birth date': '08/12/02' }
 mydict['Last Name'] = 'Viles'
 mydict['Hobbies'] = 'minecraft'
 
-if mydict['Name'] != 'none':
-
+if mydict['Name'] != 'none'
