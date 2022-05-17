@@ -32,7 +32,7 @@ myObejct['lastName'] = 'vilces'
 myObejct = {
     'name' : 'Alon',
      'age' : 12,
-    'bith date': '1975/01/05'
+    'birth date': '1975/01/05'
 
 }
 
@@ -44,7 +44,7 @@ def Object():
     myObejct = {
         'name': 'Alon',
         'age': 12,
-        'bith date': '1975/01/05'
+        'birth date': '1975/01/05'
 
     }
 
@@ -60,7 +60,7 @@ def Object():
     myObejct = {
         'name': 'Alon',
         'age': 6,
-        'bith date': '1975/01/05'
+        'birth date': '2002/01/05'
 
     }
 
@@ -79,7 +79,7 @@ print(Object())
 myObejct = {
     'name': 'Alon',
     'age': 6,
-    'bith date': '1975/01/05',
+    'birth date': '2002/01/05',
     'equal' : 12
 }
 
@@ -94,14 +94,14 @@ myObejct = {
 myObejct = {
     'name': 'Alon',
     'age': 6,
-    'bith date': '1975/01/05',
+    'birth date': '1975/01/05',
     'equal' : 12
 }
 
 myObejct2 = {
     'name': 'Alon',
     'age': 6,
-    'bith date': '1975/01/05',
+    'birth date': '2002/01/05',
     'equal' : 12
 }
 
@@ -117,14 +117,14 @@ objectSet2 = set(myObejct2)
 myObejct = {
     'name1': 'Alon',
     'age2': 6,
-    'bith date3': '1975/01/05',
+    'birth date3': '2002/01/05',
     'equal' : 12
 }
 
 myObejct2 = {
     'name': 'Alon',
     'age': 6,
-    'bith date': '1975/01/05',
+    'birth date': '2002/01/05',
     'equal' : 12
 }
 
@@ -145,7 +145,7 @@ objectSet2 = set(myObejct2)
 myObejct = {
         'name': 'Alon',
         'age2': 6,
-        'bith date3': '1975/01/05',
+        'birth date3': '2002/01/05',
         'equal': 12
     }
 
@@ -168,7 +168,7 @@ myObejct = {
 myObejct = {
     'name': 1,
     'age2': 6,
-    'bith date3': 22,
+    'birth date3': 85,
     'equal': 12
 }
 
@@ -184,7 +184,7 @@ def update_dict(myObejct,key,value):
 myObejct = {
     'name': 1,
     'age2': 6,
-    'bith date3': 22,
+    'birth date3': 63,
     'equal': 12
 }
 
